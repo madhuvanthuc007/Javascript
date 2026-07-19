@@ -160,5 +160,5 @@ console.log(salary);
 
 
 //Task 20;
-const Company ="Safari";
+const Company ="Prefox";
 console.log("Company :",Company);
